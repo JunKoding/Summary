@@ -147,3 +147,17 @@ let yuri: Student = Student()
 yuri.selfIntroduce()
 */
 
+// enum 열거형
+// enum 이름 {
+// case 이름1
+// case 이름2
+// case 이름3, 이름4, ...
+// }
+
+//               class            struct            enum
+
+// type        reference          value             value
+
+// subclassing     O                X                 X
+
+// extension       O                O                 O
