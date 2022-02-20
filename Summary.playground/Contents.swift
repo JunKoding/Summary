@@ -161,3 +161,9 @@ yuri.selfIntroduce()
 // subclassing     O                X                 X
 
 // extension       O                O                 O
+
+// closure
+// { (매개변수 목록) -> 반환타입 in
+// 실행코드
+// }
+
